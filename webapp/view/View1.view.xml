@@ -3,7 +3,15 @@
 	<App id="idAppControl">
 		<pages>
 			<Page title="{i18n>title}">
-				<content></content>
+				<!--<customHeader>-->
+			<Toolbar>
+				<Button type="Back" press="onPress" />
+				<ToolbarSpacer/>
+				<Title text="Title" level="H2"/>
+				<ToolbarSpacer/>
+				<Button icon="sap-icon://edit" type="Transparent" press="onPress" ariaLabelledBy="editButtonLabel"/>
+			</Toolbar>
+				<!--<content></content>-->
 			</Page>
 		</pages>
 	</App>
