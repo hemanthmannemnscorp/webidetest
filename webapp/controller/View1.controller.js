@@ -7,8 +7,12 @@ sap.ui.define([
 		onInit: function () {
         // sample
         // sample2
-        //clone test
-        //clone local 2
+
+        //developer1
+		} 
+
+        
 		}
+
 	});
 });
