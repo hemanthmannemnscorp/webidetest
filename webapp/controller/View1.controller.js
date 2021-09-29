@@ -8,7 +8,7 @@ sap.ui.define([
         // sample
         // sample2
         //clone test
-        //clone local
+        //clone local 2
 		}
 	});
 });
