@@ -8,6 +8,6 @@ sap.ui.define([
         // sample
         // sample2
         //developer1
-		}
+		} 
 	});
 });
