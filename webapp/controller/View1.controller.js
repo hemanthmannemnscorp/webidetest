@@ -5,14 +5,9 @@ sap.ui.define([
 
 	return Controller.extend("com.test.ztest.controller.View1", {
 		onInit: function () {
-        // sample
-        // sample2
-
-        //developer1
-		} 
-
-        
 		}
+        
+		// branch3
 
 	});
 });
